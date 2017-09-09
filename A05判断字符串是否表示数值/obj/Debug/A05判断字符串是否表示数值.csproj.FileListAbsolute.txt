@@ -1,0 +1,6 @@
+C:\Users\andan\source\repos\C Sharp\A05判断字符串是否表示数值\bin\Debug\A05判断字符串是否表示数值.exe
+C:\Users\andan\source\repos\C Sharp\A05判断字符串是否表示数值\bin\Debug\A05判断字符串是否表示数值.pdb
+C:\Users\andan\source\repos\C Sharp\A05判断字符串是否表示数值\obj\Debug\A05判断字符串是否表示数值.csprojResolveAssemblyReference.cache
+C:\Users\andan\source\repos\C Sharp\A05判断字符串是否表示数值\obj\Debug\A05判断字符串是否表示数值.csproj.CoreCompileInputs.cache
+C:\Users\andan\source\repos\C Sharp\A05判断字符串是否表示数值\obj\Debug\A05判断字符串是否表示数值.exe
+C:\Users\andan\source\repos\C Sharp\A05判断字符串是否表示数值\obj\Debug\A05判断字符串是否表示数值.pdb

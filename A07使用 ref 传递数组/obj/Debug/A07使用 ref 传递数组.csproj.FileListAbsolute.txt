@@ -1,0 +1,5 @@
+C:\Users\andan\source\repos\C Sharp\A07使用 ref 传递数组\bin\Debug\A07使用 ref 传递数组.exe
+C:\Users\andan\source\repos\C Sharp\A07使用 ref 传递数组\bin\Debug\A07使用 ref 传递数组.pdb
+C:\Users\andan\source\repos\C Sharp\A07使用 ref 传递数组\obj\Debug\A07使用 ref 传递数组.csproj.CoreCompileInputs.cache
+C:\Users\andan\source\repos\C Sharp\A07使用 ref 传递数组\obj\Debug\A07使用 ref 传递数组.exe
+C:\Users\andan\source\repos\C Sharp\A07使用 ref 传递数组\obj\Debug\A07使用 ref 传递数组.pdb

@@ -1,0 +1,6 @@
+C:\Users\andan\source\repos\C Sharp\A09隐式类型的数组\bin\Debug\A09隐式类型的数组.exe
+C:\Users\andan\source\repos\C Sharp\A09隐式类型的数组\bin\Debug\A09隐式类型的数组.pdb
+C:\Users\andan\source\repos\C Sharp\A09隐式类型的数组\obj\Debug\A09隐式类型的数组.csprojResolveAssemblyReference.cache
+C:\Users\andan\source\repos\C Sharp\A09隐式类型的数组\obj\Debug\A09隐式类型的数组.csproj.CoreCompileInputs.cache
+C:\Users\andan\source\repos\C Sharp\A09隐式类型的数组\obj\Debug\A09隐式类型的数组.exe
+C:\Users\andan\source\repos\C Sharp\A09隐式类型的数组\obj\Debug\A09隐式类型的数组.pdb

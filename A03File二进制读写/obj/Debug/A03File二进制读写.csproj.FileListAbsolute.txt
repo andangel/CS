@@ -1,0 +1,6 @@
+C:\Users\andan\source\repos\C Sharp\A03File二进制读写\bin\Debug\A03File二进制读写.exe
+C:\Users\andan\source\repos\C Sharp\A03File二进制读写\bin\Debug\A03File二进制读写.pdb
+C:\Users\andan\source\repos\C Sharp\A03File二进制读写\obj\Debug\A03File二进制读写.csprojResolveAssemblyReference.cache
+C:\Users\andan\source\repos\C Sharp\A03File二进制读写\obj\Debug\A03File二进制读写.csproj.CoreCompileInputs.cache
+C:\Users\andan\source\repos\C Sharp\A03File二进制读写\obj\Debug\A03File二进制读写.exe
+C:\Users\andan\source\repos\C Sharp\A03File二进制读写\obj\Debug\A03File二进制读写.pdb

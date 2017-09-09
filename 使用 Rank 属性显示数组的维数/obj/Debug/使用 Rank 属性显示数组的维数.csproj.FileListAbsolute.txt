@@ -1,0 +1,6 @@
+C:\Users\andan\source\repos\C Sharp\使用 Rank 属性显示数组的维数\bin\Debug\使用 Rank 属性显示数组的维数.exe
+C:\Users\andan\source\repos\C Sharp\使用 Rank 属性显示数组的维数\bin\Debug\使用 Rank 属性显示数组的维数.pdb
+C:\Users\andan\source\repos\C Sharp\使用 Rank 属性显示数组的维数\obj\Debug\使用 Rank 属性显示数组的维数.csprojResolveAssemblyReference.cache
+C:\Users\andan\source\repos\C Sharp\使用 Rank 属性显示数组的维数\obj\Debug\使用 Rank 属性显示数组的维数.csproj.CoreCompileInputs.cache
+C:\Users\andan\source\repos\C Sharp\使用 Rank 属性显示数组的维数\obj\Debug\使用 Rank 属性显示数组的维数.exe
+C:\Users\andan\source\repos\C Sharp\使用 Rank 属性显示数组的维数\obj\Debug\使用 Rank 属性显示数组的维数.pdb

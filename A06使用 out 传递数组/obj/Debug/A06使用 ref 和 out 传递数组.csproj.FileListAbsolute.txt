@@ -1,0 +1,6 @@
+C:\Users\andan\source\repos\C Sharp\A06使用 ref 和 out 传递数组\bin\Debug\A06使用 ref 和 out 传递数组.exe
+C:\Users\andan\source\repos\C Sharp\A06使用 ref 和 out 传递数组\bin\Debug\A06使用 ref 和 out 传递数组.pdb
+C:\Users\andan\source\repos\C Sharp\A06使用 ref 和 out 传递数组\obj\Debug\A06使用 ref 和 out 传递数组.csprojResolveAssemblyReference.cache
+C:\Users\andan\source\repos\C Sharp\A06使用 ref 和 out 传递数组\obj\Debug\A06使用 ref 和 out 传递数组.csproj.CoreCompileInputs.cache
+C:\Users\andan\source\repos\C Sharp\A06使用 ref 和 out 传递数组\obj\Debug\A06使用 ref 和 out 传递数组.exe
+C:\Users\andan\source\repos\C Sharp\A06使用 ref 和 out 传递数组\obj\Debug\A06使用 ref 和 out 传递数组.pdb

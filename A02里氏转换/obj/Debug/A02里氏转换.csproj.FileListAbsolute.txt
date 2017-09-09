@@ -1,0 +1,6 @@
+C:\Users\andan\source\repos\C Sharp\A02里氏转换\bin\Debug\A02里氏转换.exe
+C:\Users\andan\source\repos\C Sharp\A02里氏转换\bin\Debug\A02里氏转换.pdb
+C:\Users\andan\source\repos\C Sharp\A02里氏转换\obj\Debug\A02里氏转换.csprojResolveAssemblyReference.cache
+C:\Users\andan\source\repos\C Sharp\A02里氏转换\obj\Debug\A02里氏转换.csproj.CoreCompileInputs.cache
+C:\Users\andan\source\repos\C Sharp\A02里氏转换\obj\Debug\A02里氏转换.exe
+C:\Users\andan\source\repos\C Sharp\A02里氏转换\obj\Debug\A02里氏转换.pdb

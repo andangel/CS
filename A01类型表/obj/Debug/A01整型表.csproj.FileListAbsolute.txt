@@ -1,0 +1,6 @@
+C:\Users\andan\source\repos\C Sharp\A01整型表\bin\Debug\A01整型表.exe
+C:\Users\andan\source\repos\C Sharp\A01整型表\bin\Debug\A01整型表.pdb
+C:\Users\andan\source\repos\C Sharp\A01整型表\obj\Debug\A01整型表.csprojResolveAssemblyReference.cache
+C:\Users\andan\source\repos\C Sharp\A01整型表\obj\Debug\A01整型表.csproj.CoreCompileInputs.cache
+C:\Users\andan\source\repos\C Sharp\A01整型表\obj\Debug\A01整型表.exe
+C:\Users\andan\source\repos\C Sharp\A01整型表\obj\Debug\A01整型表.pdb

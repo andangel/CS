@@ -1,0 +1,6 @@
+C:\Users\andan\source\repos\C Sharp\A03交错数组\bin\Debug\A03交错数组.exe
+C:\Users\andan\source\repos\C Sharp\A03交错数组\bin\Debug\A03交错数组.pdb
+C:\Users\andan\source\repos\C Sharp\A03交错数组\obj\Debug\A03交错数组.csprojResolveAssemblyReference.cache
+C:\Users\andan\source\repos\C Sharp\A03交错数组\obj\Debug\A03交错数组.csproj.CoreCompileInputs.cache
+C:\Users\andan\source\repos\C Sharp\A03交错数组\obj\Debug\A03交错数组.exe
+C:\Users\andan\source\repos\C Sharp\A03交错数组\obj\Debug\A03交错数组.pdb

@@ -1,0 +1,6 @@
+C:\Users\andan\source\repos\C Sharp\A02File类\bin\Debug\A02File类.exe
+C:\Users\andan\source\repos\C Sharp\A02File类\bin\Debug\A02File类.pdb
+C:\Users\andan\source\repos\C Sharp\A02File类\obj\Debug\A02File类.csprojResolveAssemblyReference.cache
+C:\Users\andan\source\repos\C Sharp\A02File类\obj\Debug\A02File类.csproj.CoreCompileInputs.cache
+C:\Users\andan\source\repos\C Sharp\A02File类\obj\Debug\A02File类.exe
+C:\Users\andan\source\repos\C Sharp\A02File类\obj\Debug\A02File类.pdb

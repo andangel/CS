@@ -1,0 +1,6 @@
+C:\Users\andan\source\repos\C Sharp\A03类的继承\bin\Debug\A03类的继承.exe
+C:\Users\andan\source\repos\C Sharp\A03类的继承\bin\Debug\A03类的继承.pdb
+C:\Users\andan\source\repos\C Sharp\A03类的继承\obj\Debug\A03类的继承.csprojResolveAssemblyReference.cache
+C:\Users\andan\source\repos\C Sharp\A03类的继承\obj\Debug\A03类的继承.csproj.CoreCompileInputs.cache
+C:\Users\andan\source\repos\C Sharp\A03类的继承\obj\Debug\A03类的继承.exe
+C:\Users\andan\source\repos\C Sharp\A03类的继承\obj\Debug\A03类的继承.pdb

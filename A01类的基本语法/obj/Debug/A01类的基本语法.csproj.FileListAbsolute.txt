@@ -1,0 +1,6 @@
+C:\Users\andan\source\repos\C Sharp\A01类的基本语法\bin\Debug\A01类的基本语法.exe
+C:\Users\andan\source\repos\C Sharp\A01类的基本语法\bin\Debug\A01类的基本语法.pdb
+C:\Users\andan\source\repos\C Sharp\A01类的基本语法\obj\Debug\A01类的基本语法.csprojResolveAssemblyReference.cache
+C:\Users\andan\source\repos\C Sharp\A01类的基本语法\obj\Debug\A01类的基本语法.csproj.CoreCompileInputs.cache
+C:\Users\andan\source\repos\C Sharp\A01类的基本语法\obj\Debug\A01类的基本语法.exe
+C:\Users\andan\source\repos\C Sharp\A01类的基本语法\obj\Debug\A01类的基本语法.pdb
