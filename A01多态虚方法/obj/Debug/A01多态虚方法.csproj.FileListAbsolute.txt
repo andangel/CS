@@ -1,0 +1,6 @@
+C:\Users\andan\source\repos\CS\A01多态虚方法\bin\Debug\A01多态虚方法.exe
+C:\Users\andan\source\repos\CS\A01多态虚方法\bin\Debug\A01多态虚方法.pdb
+C:\Users\andan\source\repos\CS\A01多态虚方法\obj\Debug\A01多态虚方法.csproj.CoreCompileInputs.cache
+C:\Users\andan\source\repos\CS\A01多态虚方法\obj\Debug\A01多态虚方法.exe
+C:\Users\andan\source\repos\CS\A01多态虚方法\obj\Debug\A01多态虚方法.pdb
+C:\Users\andan\source\repos\CS\A01多态虚方法\obj\Debug\A01多态虚方法.csprojResolveAssemblyReference.cache
