@@ -1,0 +1,5 @@
+C:\Users\andan\source\repos\CS\A01什么是拆装箱\bin\Debug\A01什么是拆装箱.exe
+C:\Users\andan\source\repos\CS\A01什么是拆装箱\bin\Debug\A01什么是拆装箱.pdb
+C:\Users\andan\source\repos\CS\A01什么是拆装箱\obj\Debug\A01什么是拆装箱.csproj.CoreCompileInputs.cache
+C:\Users\andan\source\repos\CS\A01什么是拆装箱\obj\Debug\A01什么是拆装箱.exe
+C:\Users\andan\source\repos\CS\A01什么是拆装箱\obj\Debug\A01什么是拆装箱.pdb
