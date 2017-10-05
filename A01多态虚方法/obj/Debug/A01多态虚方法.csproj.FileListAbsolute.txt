@@ -4,3 +4,8 @@ C:\Users\andan\source\repos\CS\A01多态虚方法\obj\Debug\A01多态虚方法.c
 C:\Users\andan\source\repos\CS\A01多态虚方法\obj\Debug\A01多态虚方法.exe
 C:\Users\andan\source\repos\CS\A01多态虚方法\obj\Debug\A01多态虚方法.pdb
 C:\Users\andan\source\repos\CS\A01多态虚方法\obj\Debug\A01多态虚方法.csprojResolveAssemblyReference.cache
+C:\Users\Microsoft\Documents\GitHub\CS\A01多态虚方法\obj\Debug\A01多态虚方法.exe
+C:\Users\Microsoft\Documents\GitHub\CS\A01多态虚方法\obj\Debug\A01多态虚方法.pdb
+C:\Users\Microsoft\Documents\GitHub\CS\A01多态虚方法\bin\Debug\A01多态虚方法.exe
+C:\Users\Microsoft\Documents\GitHub\CS\A01多态虚方法\bin\Debug\A01多态虚方法.pdb
+C:\Users\Microsoft\Documents\GitHub\CS\A01多态虚方法\obj\Debug\A01多态虚方法.csprojResolveAssemblyReference.cache
