@@ -4,3 +4,5 @@ C:\Users\andan\source\repos\C Sharp\A02HashTable键值对集合\obj\Debug\A02Has
 C:\Users\andan\source\repos\C Sharp\A02HashTable键值对集合\obj\Debug\A02HashTable键值对集合.csproj.CoreCompileInputs.cache
 C:\Users\andan\source\repos\C Sharp\A02HashTable键值对集合\obj\Debug\A02HashTable键值对集合.exe
 C:\Users\andan\source\repos\C Sharp\A02HashTable键值对集合\obj\Debug\A02HashTable键值对集合.pdb
+C:\Users\Microsoft\Documents\GitHub\CS\A02HashTable键值对集合\obj\Debug\A02HashTable键值对集合.exe
+C:\Users\Microsoft\Documents\GitHub\CS\A02HashTable键值对集合\obj\Debug\A02HashTable键值对集合.pdb
