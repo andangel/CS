@@ -24,7 +24,7 @@ namespace A03抽象类模拟移动设备
             计算机 Computer = new 计算机();
             //Computer.通用串行总线读取(PhoneUSBFlashDisk);
             //Computer.通用串行总线写入(PhoneUSBFlashDisk);
-            Computer.设备 = 移动硬盘;
+            Computer.USB设备 = 移动硬盘;
             Computer.通用串行总线读取();
         }
     }
