@@ -6,7 +6,7 @@ using System.Text;
 namespace A01多态虚方法
 {
     /// <summary>
-    /// 知道父类如何实现使用虚方法
+    /// 
     /// 在父类方法返回之前标记virtual
     /// 在子类同名方法标记override
     /// 这样子类就可以重写父类方法

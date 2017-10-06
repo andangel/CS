@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 2013
-VisualStudioVersion = 12.0.40629.0
+# Visual Studio 15
+VisualStudioVersion = 15.0.26730.12
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "值类型", "值类型", "{F5AE1B03-9999-4DD5-A224-BECA576E19DA}"
 EndProject
@@ -100,6 +100,12 @@ EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "A03抽象类模拟移动设备", "A03抽象类模拟移动设备\A03抽象类模拟移动设备.csproj", "{2E06AB8F-6988-46F6-A060-B4DB676B4D4F}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "A04Dictionary泛型集合", "A04Dictionary泛型集合\A04Dictionary泛型集合.csproj", "{6EEB1846-1C5E-403F-A6A3-E1695796AF44}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "A04FileStream文件流读写", "..\CS2\A04FileStream文件流读写\A04FileStream文件流读写.csproj", "{7F2AE5FD-B8DB-44BA-B198-468BAF01429E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "A05FileStream文件流读写", "..\CS2\A05FileStream文件流读写\A05FileStream文件流读写.csproj", "{ED287769-6068-4407-86AD-74DF24F2D4A5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "A06FileStream文件流读写", "..\CS2\A06FileStream文件流读写\A06FileStream文件流读写.csproj", "{EC7AA622-A088-4266-A924-1EEF510E26C4}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -259,6 +265,18 @@ Global
 		{6EEB1846-1C5E-403F-A6A3-E1695796AF44}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6EEB1846-1C5E-403F-A6A3-E1695796AF44}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6EEB1846-1C5E-403F-A6A3-E1695796AF44}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7F2AE5FD-B8DB-44BA-B198-468BAF01429E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7F2AE5FD-B8DB-44BA-B198-468BAF01429E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7F2AE5FD-B8DB-44BA-B198-468BAF01429E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7F2AE5FD-B8DB-44BA-B198-468BAF01429E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ED287769-6068-4407-86AD-74DF24F2D4A5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ED287769-6068-4407-86AD-74DF24F2D4A5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ED287769-6068-4407-86AD-74DF24F2D4A5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ED287769-6068-4407-86AD-74DF24F2D4A5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EC7AA622-A088-4266-A924-1EEF510E26C4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EC7AA622-A088-4266-A924-1EEF510E26C4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EC7AA622-A088-4266-A924-1EEF510E26C4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EC7AA622-A088-4266-A924-1EEF510E26C4}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -306,6 +324,9 @@ Global
 		{481EDB9D-8D00-48FF-AEA0-E2FA573E5F62} = {3D61E159-4A7B-48E9-8513-87E0B945134D}
 		{2E06AB8F-6988-46F6-A060-B4DB676B4D4F} = {3D61E159-4A7B-48E9-8513-87E0B945134D}
 		{6EEB1846-1C5E-403F-A6A3-E1695796AF44} = {77599823-F453-4420-AE74-800DB748C314}
+		{7F2AE5FD-B8DB-44BA-B198-468BAF01429E} = {D4F80B27-FB36-4771-930B-5BACA9466F43}
+		{ED287769-6068-4407-86AD-74DF24F2D4A5} = {D4F80B27-FB36-4771-930B-5BACA9466F43}
+		{EC7AA622-A088-4266-A924-1EEF510E26C4} = {D4F80B27-FB36-4771-930B-5BACA9466F43}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {3C49BFFF-C38B-4EE4-8BEC-21AA3444C9DD}
