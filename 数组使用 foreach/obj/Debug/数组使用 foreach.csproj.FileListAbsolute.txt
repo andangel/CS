@@ -3,3 +3,7 @@ C:\Users\andan\source\repos\C Sharp\数组使用 foreach\bin\Debug\数组使用 
 C:\Users\andan\source\repos\C Sharp\数组使用 foreach\obj\Debug\数组使用 foreach.csproj.CoreCompileInputs.cache
 C:\Users\andan\source\repos\C Sharp\数组使用 foreach\obj\Debug\数组使用 foreach.exe
 C:\Users\andan\source\repos\C Sharp\数组使用 foreach\obj\Debug\数组使用 foreach.pdb
+C:\Users\Microsoft\Documents\GitHub\CS\数组使用 foreach\bin\Debug\数组使用 foreach.exe
+C:\Users\Microsoft\Documents\GitHub\CS\数组使用 foreach\bin\Debug\数组使用 foreach.pdb
+C:\Users\Microsoft\Documents\GitHub\CS\数组使用 foreach\obj\Debug\数组使用 foreach.exe
+C:\Users\Microsoft\Documents\GitHub\CS\数组使用 foreach\obj\Debug\数组使用 foreach.pdb

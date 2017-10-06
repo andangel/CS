@@ -9,8 +9,15 @@ namespace A04只允许子类访问修饰符
         protected string _name;
         private int _age;
 
-        public int Age { get => _age; set => _age = value; }
-        protected string Name { get => _name; set => _name = value; }
+        public int Age { 
+            get {return _age;}
+            set { _age = value; }
+        }
+        protected string Name
+        {
+            get { return _name; }
+            set { _name = value; }
+        }
     }
     class Chinaes:Person
     {

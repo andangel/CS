@@ -20,7 +20,8 @@ namespace A03数值转换成字符串
 
             // TryParse如果转换成功 返回true
             // 并将结果存储在j中。
-            if (Int32.TryParse("111", out int j))
+            int j=0;
+            if (Int32.TryParse("111", out j))
                 Console.WriteLine(j);
             else
                 Console.WriteLine("字符串不能被解析.");
