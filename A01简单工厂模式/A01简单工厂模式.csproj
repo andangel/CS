@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{1CEE5359-28F9-4CF7-B6C9-715CB767D600}</ProjectGuid>
+    <ProjectGuid>{4037E730-8D6C-4222-91A6-8D74804C9667}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>A04工厂方法模式</RootNamespace>
-    <AssemblyName>A04工厂方法模式</AssemblyName>
+    <RootNamespace>A01简单工厂模式</RootNamespace>
+    <AssemblyName>A01简单工厂模式</AssemblyName>
     <TargetFrameworkVersion>v3.5</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
   </PropertyGroup>
@@ -39,13 +39,11 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Apple.cs" />
-    <Compile Include="AppleFactory.cs" />
+    <Compile Include="AcerFactory.cs" />
     <Compile Include="Computer.cs" />
     <Compile Include="ComputerFactory.cs" />
-    <Compile Include="Dell.cs" />
     <Compile Include="DellFactory.cs" />
-    <Compile Include="Lenovo.cs" />
+    <Compile Include="HpFactory.cs" />
     <Compile Include="LenovoFactory.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
