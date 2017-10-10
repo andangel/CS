@@ -165,6 +165,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "A05FileStream文件流读�
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "A06FileStream文件流读写", "A06FileStream文件流读写\A06FileStream文件流读写.csproj", "{EC7AA622-A088-4266-A924-1EEF510E26C4}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "序列化", "序列化", "{2A954888-836F-4C71-A19D-911C5BCDFB3F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "序列化", "序列化\序列化.csproj", "{9835F25E-34D3-499C-BE87-4CCA53AC4241}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -431,6 +435,10 @@ Global
 		{EC7AA622-A088-4266-A924-1EEF510E26C4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{EC7AA622-A088-4266-A924-1EEF510E26C4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{EC7AA622-A088-4266-A924-1EEF510E26C4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9835F25E-34D3-499C-BE87-4CCA53AC4241}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9835F25E-34D3-499C-BE87-4CCA53AC4241}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9835F25E-34D3-499C-BE87-4CCA53AC4241}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9835F25E-34D3-499C-BE87-4CCA53AC4241}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -509,6 +517,7 @@ Global
 		{7F2AE5FD-B8DB-44BA-B198-468BAF01429E} = {D4F80B27-FB36-4771-930B-5BACA9466F43}
 		{ED287769-6068-4407-86AD-74DF24F2D4A5} = {D4F80B27-FB36-4771-930B-5BACA9466F43}
 		{EC7AA622-A088-4266-A924-1EEF510E26C4} = {D4F80B27-FB36-4771-930B-5BACA9466F43}
+		{9835F25E-34D3-499C-BE87-4CCA53AC4241} = {2A954888-836F-4C71-A19D-911C5BCDFB3F}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {3C49BFFF-C38B-4EE4-8BEC-21AA3444C9DD}
