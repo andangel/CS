@@ -1,0 +1,2 @@
+C:\Users\andan\Documents\GitHub\CS\A01类型表\obj\Debug\A01整型表.exe
+C:\Users\andan\Documents\GitHub\CS\A01类型表\obj\Debug\A01整型表.pdb
