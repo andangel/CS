@@ -12,6 +12,10 @@ namespace A04多态显示接口
     {
         static void Main(string[] args)
         {
+            IFlyable fly = new Birds();
+            fly.Flyable();
+            Birds bird = new Birds();
+            bird.Flyable();
         }
     }
     public class Birds:IFlyable
@@ -20,7 +24,7 @@ namespace A04多态显示接口
         {
             Console.WriteLine("鸟会飞!");
         }
-        public void IFlyable.Flyable()
+        void IFlyable.Flyable()
         {
             Console.WriteLine("我是接口的飞!");
         }
@@ -28,6 +32,6 @@ namespace A04多态显示接口
     }
     public interface IFlyable
     {
-        public void Flyable();
+         void Flyable();
     }
 }
