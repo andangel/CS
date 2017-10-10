@@ -9,3 +9,5 @@ C:\Users\Microsoft\Documents\GitHub\CS\使用 Rank 属性显示数组的维数\b
 C:\Users\Microsoft\Documents\GitHub\CS\使用 Rank 属性显示数组的维数\obj\Debug\使用 Rank 属性显示数组的维数.csprojResolveAssemblyReference.cache
 C:\Users\Microsoft\Documents\GitHub\CS\使用 Rank 属性显示数组的维数\obj\Debug\使用 Rank 属性显示数组的维数.exe
 C:\Users\Microsoft\Documents\GitHub\CS\使用 Rank 属性显示数组的维数\obj\Debug\使用 Rank 属性显示数组的维数.pdb
+C:\Users\andan\Documents\GitHub\CS\使用 Rank 属性显示数组的维数\obj\Debug\使用 Rank 属性显示数组的维数.exe
+C:\Users\andan\Documents\GitHub\CS\使用 Rank 属性显示数组的维数\obj\Debug\使用 Rank 属性显示数组的维数.pdb

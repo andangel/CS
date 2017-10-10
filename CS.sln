@@ -21,7 +21,7 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "修饰符", "修饰符", "{
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "数组", "数组", "{DC661243-A99C-4D8C-A5BF-757648E09477}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "使用 Rank 属性显示数组的维数", "使用 Rank 属性显示数组的维数\使用 Rank 属性显示数组的维数.csproj", "{B6BAE3DF-D138-446B-825F-267993F27958}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "A01使用 Rank 属性显示数组的维数", "A01使用 Rank 属性显示数组的维数\A01使用 Rank 属性显示数组的维数.csproj", "{B6BAE3DF-D138-446B-825F-267993F27958}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "A01一维数组", "A01一维数组\A01一维数组.csproj", "{D831389D-F3BD-4050-B9C8-B62C90CBB766}"
 EndProject
@@ -29,13 +29,13 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "A02多维数组", "A02多�
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "A03交错数组", "A03交错数组\A03交错数组.csproj", "{178D8427-7E5C-4EAB-B6D0-B0777BA474B9}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "数组使用 foreach", "数组使用 foreach\数组使用 foreach.csproj", "{8CE10AEF-CD86-47AF-82F3-6A0D20EA443C}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "A01数组使用 foreach", "A01数组使用 foreach\A01数组使用 foreach.csproj", "{8CE10AEF-CD86-47AF-82F3-6A0D20EA443C}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "A04将一维数组作为参数传递", "A04将一维数组作为参数传递\A04将一维数组作为参数传递.csproj", "{BF60D11C-18AA-4E96-8120-9C26C7A3B077}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "A05将多维数组作为参数传递", "A05将多维数组作为参数传递\A05将多维数组作为参数传递.csproj", "{84C321DC-3AA0-477A-8885-C8B286CFE92F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArrayTest", "ArrayTest\ArrayTest.csproj", "{F9F41777-F4B8-478A-A390-A56C2EE2D1EE}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "A01ArrayTest", "A01ArrayTest\A01ArrayTest.csproj", "{F9F41777-F4B8-478A-A390-A56C2EE2D1EE}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "A06使用 out 传递数组", "A06使用 out 传递数组\A06使用 out 传递数组.csproj", "{6BD865AD-5C23-429E-AE21-147F01FDFB9C}"
 EndProject
@@ -167,11 +167,13 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "A06FileStream文件流读�
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "序列化", "序列化", "{2A954888-836F-4C71-A19D-911C5BCDFB3F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "序列化", "序列化\序列化.csproj", "{9835F25E-34D3-499C-BE87-4CCA53AC4241}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "A01序列化", "A01序列化\A01序列化.csproj", "{9835F25E-34D3-499C-BE87-4CCA53AC4241}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "A03多态接口", "A03多态接口\A03多态接口.csproj", "{8D936D8A-29C0-47CE-B3B0-40D9917859F7}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "多态接口练习一", "多态接口练习一\多态接口练习一.csproj", "{0C38866C-4B98-4FD8-9421-BB8B8A37F6C0}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "A03多态接口练习一", "A03多态接口练习一\A03多态接口练习一.csproj", "{0C38866C-4B98-4FD8-9421-BB8B8A37F6C0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "A04多态显示接口", "A04多态显示接口\A04多态显示接口.csproj", "{DFDA8376-DAE1-42CA-A95F-09BD119E559C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -451,6 +453,10 @@ Global
 		{0C38866C-4B98-4FD8-9421-BB8B8A37F6C0}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0C38866C-4B98-4FD8-9421-BB8B8A37F6C0}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0C38866C-4B98-4FD8-9421-BB8B8A37F6C0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DFDA8376-DAE1-42CA-A95F-09BD119E559C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DFDA8376-DAE1-42CA-A95F-09BD119E559C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DFDA8376-DAE1-42CA-A95F-09BD119E559C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DFDA8376-DAE1-42CA-A95F-09BD119E559C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -532,6 +538,7 @@ Global
 		{9835F25E-34D3-499C-BE87-4CCA53AC4241} = {2A954888-836F-4C71-A19D-911C5BCDFB3F}
 		{8D936D8A-29C0-47CE-B3B0-40D9917859F7} = {3D61E159-4A7B-48E9-8513-87E0B945134D}
 		{0C38866C-4B98-4FD8-9421-BB8B8A37F6C0} = {3D61E159-4A7B-48E9-8513-87E0B945134D}
+		{DFDA8376-DAE1-42CA-A95F-09BD119E559C} = {3D61E159-4A7B-48E9-8513-87E0B945134D}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {3C49BFFF-C38B-4EE4-8BEC-21AA3444C9DD}
