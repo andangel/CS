@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Windows.Forms;
 
-namespace A02SocketClient
+namespace A02SocketServer
 {
     static class Program
     {

@@ -7,8 +7,8 @@
     <ProjectGuid>{5558394E-380A-4D1A-B5C1-9D90E90EC147}</ProjectGuid>
     <OutputType>WinExe</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>A02SocketClient</RootNamespace>
-    <AssemblyName>A02SocketClient</AssemblyName>
+    <RootNamespace>A02SocketServer</RootNamespace>
+    <AssemblyName>A02SocketServer</AssemblyName>
     <TargetFrameworkVersion>v3.5</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
   </PropertyGroup>
