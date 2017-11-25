@@ -1,0 +1,2 @@
+C:\Users\andan\Documents\GitHub\CS\A01序列化\obj\Debug\序列化.exe
+C:\Users\andan\Documents\GitHub\CS\A01序列化\obj\Debug\序列化.pdb

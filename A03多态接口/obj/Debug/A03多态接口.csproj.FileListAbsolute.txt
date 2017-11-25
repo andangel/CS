@@ -1,0 +1,4 @@
+C:\Users\andan\Documents\GitHub\CS\A03多态接口\bin\Debug\A03多态接口.exe
+C:\Users\andan\Documents\GitHub\CS\A03多态接口\bin\Debug\A03多态接口.pdb
+C:\Users\andan\Documents\GitHub\CS\A03多态接口\obj\Debug\A03多态接口.exe
+C:\Users\andan\Documents\GitHub\CS\A03多态接口\obj\Debug\A03多态接口.pdb

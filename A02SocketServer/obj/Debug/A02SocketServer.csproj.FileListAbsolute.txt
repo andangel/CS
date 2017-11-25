@@ -1,0 +1,10 @@
+C:\Users\andan\Documents\GitHub\CS\A02SocketClient\obj\Debug\A02SocketClient.exe
+C:\Users\andan\Documents\GitHub\CS\A02SocketClient\obj\Debug\A02SocketClient.pdb
+C:\Users\andan\Documents\GitHub\CS\A02SocketServer\obj\Debug\A02SocketServer.Properties.Resources.resources
+C:\Users\andan\Documents\GitHub\CS\A02SocketServer\obj\Debug\A02SocketServer.csproj.GenerateResource.Cache
+C:\Users\andan\Documents\GitHub\CS\A02SocketServer\bin\Debug\A02SocketServer.exe
+C:\Users\andan\Documents\GitHub\CS\A02SocketServer\bin\Debug\A02SocketServer.pdb
+C:\Users\andan\Documents\GitHub\CS\A02SocketServer\obj\Debug\A02SocketServer.csprojResolveAssemblyReference.cache
+C:\Users\andan\Documents\GitHub\CS\A02SocketServer\obj\Debug\A02SocketServer.Form1.resources
+C:\Users\andan\Documents\GitHub\CS\A02SocketServer\obj\Debug\A02SocketServer.exe
+C:\Users\andan\Documents\GitHub\CS\A02SocketServer\obj\Debug\A02SocketServer.pdb

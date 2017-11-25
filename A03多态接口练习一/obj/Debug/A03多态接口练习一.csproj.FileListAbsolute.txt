@@ -1,0 +1,2 @@
+C:\Users\andan\Documents\GitHub\CS\多态接口练习一\obj\Debug\多态接口练习一.exe
+C:\Users\andan\Documents\GitHub\CS\多态接口练习一\obj\Debug\多态接口练习一.pdb

@@ -1,0 +1,2 @@
+C:\Users\andan\Documents\GitHub\CS\A01使用 Rank 属性显示数组的维数\obj\Debug\使用 Rank 属性显示数组的维数.exe
+C:\Users\andan\Documents\GitHub\CS\A01使用 Rank 属性显示数组的维数\obj\Debug\使用 Rank 属性显示数组的维数.pdb

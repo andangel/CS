@@ -1,0 +1,5 @@
+C:\Users\andan\Documents\GitHub\CS\多态接口练习一\bin\Debug\多态接口练习一.exe
+C:\Users\andan\Documents\GitHub\CS\多态接口练习一\bin\Debug\多态接口练习一.pdb
+C:\Users\andan\Documents\GitHub\CS\多态接口练习一\obj\Debug\多态接口练习一.csprojResolveAssemblyReference.cache
+C:\Users\andan\Documents\GitHub\CS\多态接口练习一\obj\Debug\多态接口练习一.exe
+C:\Users\andan\Documents\GitHub\CS\多态接口练习一\obj\Debug\多态接口练习一.pdb
