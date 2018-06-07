@@ -4,3 +4,8 @@ C:\Users\andan\source\repos\C Sharp\A02类型转换\obj\Debug\A02类型转换.cs
 C:\Users\andan\source\repos\C Sharp\A02类型转换\obj\Debug\A02类型转换.csproj.CoreCompileInputs.cache
 C:\Users\andan\source\repos\C Sharp\A02类型转换\obj\Debug\A02类型转换.exe
 C:\Users\andan\source\repos\C Sharp\A02类型转换\obj\Debug\A02类型转换.pdb
+C:\Users\Dell\Documents\GitHub\CS\A02类型转换\bin\Debug\A02类型转换.exe
+C:\Users\Dell\Documents\GitHub\CS\A02类型转换\bin\Debug\A02类型转换.pdb
+C:\Users\Dell\Documents\GitHub\CS\A02类型转换\obj\Debug\A02类型转换.csprojResolveAssemblyReference.cache
+C:\Users\Dell\Documents\GitHub\CS\A02类型转换\obj\Debug\A02类型转换.exe
+C:\Users\Dell\Documents\GitHub\CS\A02类型转换\obj\Debug\A02类型转换.pdb

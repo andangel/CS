@@ -1,0 +1,5 @@
+C:\Users\Dell\Documents\GitHub\CS\A01数组使用 foreach\bin\Debug\数组使用 foreach.exe
+C:\Users\Dell\Documents\GitHub\CS\A01数组使用 foreach\bin\Debug\数组使用 foreach.pdb
+C:\Users\Dell\Documents\GitHub\CS\A01数组使用 foreach\obj\Debug\A01数组使用 foreach.csprojResolveAssemblyReference.cache
+C:\Users\Dell\Documents\GitHub\CS\A01数组使用 foreach\obj\Debug\数组使用 foreach.exe
+C:\Users\Dell\Documents\GitHub\CS\A01数组使用 foreach\obj\Debug\数组使用 foreach.pdb

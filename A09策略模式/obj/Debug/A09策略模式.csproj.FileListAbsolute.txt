@@ -1,0 +1,4 @@
+C:\Users\Dell\Documents\GitHub\CS\A09策略模式\bin\Debug\A09策略模式.exe
+C:\Users\Dell\Documents\GitHub\CS\A09策略模式\bin\Debug\A09策略模式.pdb
+C:\Users\Dell\Documents\GitHub\CS\A09策略模式\obj\Debug\A09策略模式.exe
+C:\Users\Dell\Documents\GitHub\CS\A09策略模式\obj\Debug\A09策略模式.pdb

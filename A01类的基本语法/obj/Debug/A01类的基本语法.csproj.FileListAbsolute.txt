@@ -6,3 +6,8 @@ C:\Users\andan\source\repos\C Sharp\A01类的基本语法\obj\Debug\A01类的基
 C:\Users\andan\source\repos\C Sharp\A01类的基本语法\obj\Debug\A01类的基本语法.pdb
 C:\Users\Microsoft\Documents\GitHub\CS\A01类的基本语法\obj\Debug\A01类的基本语法.exe
 C:\Users\Microsoft\Documents\GitHub\CS\A01类的基本语法\obj\Debug\A01类的基本语法.pdb
+C:\Users\Dell\Documents\GitHub\CS\A01类的基本语法\bin\Debug\A01类的基本语法.exe
+C:\Users\Dell\Documents\GitHub\CS\A01类的基本语法\bin\Debug\A01类的基本语法.pdb
+C:\Users\Dell\Documents\GitHub\CS\A01类的基本语法\obj\Debug\A01类的基本语法.csprojResolveAssemblyReference.cache
+C:\Users\Dell\Documents\GitHub\CS\A01类的基本语法\obj\Debug\A01类的基本语法.exe
+C:\Users\Dell\Documents\GitHub\CS\A01类的基本语法\obj\Debug\A01类的基本语法.pdb

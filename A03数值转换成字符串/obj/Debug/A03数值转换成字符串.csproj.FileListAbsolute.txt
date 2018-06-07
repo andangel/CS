@@ -1,0 +1,5 @@
+C:\Users\Dell\Documents\GitHub\CS\A03数值转换成字符串\bin\Debug\A03数值转换成字符串.exe
+C:\Users\Dell\Documents\GitHub\CS\A03数值转换成字符串\bin\Debug\A03数值转换成字符串.pdb
+C:\Users\Dell\Documents\GitHub\CS\A03数值转换成字符串\obj\Debug\A03数值转换成字符串.csprojResolveAssemblyReference.cache
+C:\Users\Dell\Documents\GitHub\CS\A03数值转换成字符串\obj\Debug\A03数值转换成字符串.exe
+C:\Users\Dell\Documents\GitHub\CS\A03数值转换成字符串\obj\Debug\A03数值转换成字符串.pdb

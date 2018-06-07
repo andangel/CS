@@ -1,0 +1,4 @@
+C:\Users\Dell\Documents\GitHub\CS\A01模板方法\bin\Debug\A01模板方法.exe
+C:\Users\Dell\Documents\GitHub\CS\A01模板方法\bin\Debug\A01模板方法.pdb
+C:\Users\Dell\Documents\GitHub\CS\A01模板方法\obj\Debug\A01模板方法.exe
+C:\Users\Dell\Documents\GitHub\CS\A01模板方法\obj\Debug\A01模板方法.pdb

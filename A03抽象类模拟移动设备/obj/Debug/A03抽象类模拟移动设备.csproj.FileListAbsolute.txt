@@ -1,0 +1,4 @@
+C:\Users\Dell\Documents\GitHub\CS\A03抽象类模拟移动设备\bin\Debug\A03抽象类模拟移动设备.exe
+C:\Users\Dell\Documents\GitHub\CS\A03抽象类模拟移动设备\bin\Debug\A03抽象类模拟移动设备.pdb
+C:\Users\Dell\Documents\GitHub\CS\A03抽象类模拟移动设备\obj\Debug\A03抽象类模拟移动设备.exe
+C:\Users\Dell\Documents\GitHub\CS\A03抽象类模拟移动设备\obj\Debug\A03抽象类模拟移动设备.pdb

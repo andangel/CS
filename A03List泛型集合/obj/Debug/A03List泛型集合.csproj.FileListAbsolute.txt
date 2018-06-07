@@ -3,3 +3,8 @@ C:\Users\andan\source\repos\CS\A03List泛型集合\bin\Debug\A03List泛型集合
 C:\Users\andan\source\repos\CS\A03List泛型集合\obj\Debug\A03List泛型集合.csproj.CoreCompileInputs.cache
 C:\Users\andan\source\repos\CS\A03List泛型集合\obj\Debug\A03List泛型集合.exe
 C:\Users\andan\source\repos\CS\A03List泛型集合\obj\Debug\A03List泛型集合.pdb
+C:\Users\Dell\Documents\GitHub\CS\A03List泛型集合\bin\Debug\A03List泛型集合.exe
+C:\Users\Dell\Documents\GitHub\CS\A03List泛型集合\bin\Debug\A03List泛型集合.pdb
+C:\Users\Dell\Documents\GitHub\CS\A03List泛型集合\obj\Debug\A03List泛型集合.csprojResolveAssemblyReference.cache
+C:\Users\Dell\Documents\GitHub\CS\A03List泛型集合\obj\Debug\A03List泛型集合.exe
+C:\Users\Dell\Documents\GitHub\CS\A03List泛型集合\obj\Debug\A03List泛型集合.pdb

@@ -1,2 +1,7 @@
 C:\Users\andan\Documents\GitHub\CS\A01类型表\obj\Debug\A01整型表.exe
 C:\Users\andan\Documents\GitHub\CS\A01类型表\obj\Debug\A01整型表.pdb
+C:\Users\Dell\Documents\GitHub\CS\A01类型表\obj\Debug\A01整型表.exe
+C:\Users\Dell\Documents\GitHub\CS\A01类型表\obj\Debug\A01整型表.pdb
+C:\Users\Dell\Documents\GitHub\CS\A01类型表\bin\Debug\A01整型表.exe
+C:\Users\Dell\Documents\GitHub\CS\A01类型表\bin\Debug\A01整型表.pdb
+C:\Users\Dell\Documents\GitHub\CS\A01类型表\obj\Debug\A01类型表.csprojResolveAssemblyReference.cache

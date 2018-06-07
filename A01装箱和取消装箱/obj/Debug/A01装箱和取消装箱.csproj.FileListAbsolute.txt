@@ -1,0 +1,5 @@
+C:\Users\Dell\Documents\GitHub\CS\A01装箱和取消装箱\bin\Debug\A01装箱和取消装箱.exe
+C:\Users\Dell\Documents\GitHub\CS\A01装箱和取消装箱\bin\Debug\A01装箱和取消装箱.pdb
+C:\Users\Dell\Documents\GitHub\CS\A01装箱和取消装箱\obj\Debug\A01装箱和取消装箱.csprojResolveAssemblyReference.cache
+C:\Users\Dell\Documents\GitHub\CS\A01装箱和取消装箱\obj\Debug\A01装箱和取消装箱.exe
+C:\Users\Dell\Documents\GitHub\CS\A01装箱和取消装箱\obj\Debug\A01装箱和取消装箱.pdb

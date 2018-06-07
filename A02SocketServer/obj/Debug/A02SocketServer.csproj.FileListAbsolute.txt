@@ -8,3 +8,11 @@ C:\Users\andan\Documents\GitHub\CS\A02SocketServer\obj\Debug\A02SocketServer.csp
 C:\Users\andan\Documents\GitHub\CS\A02SocketServer\obj\Debug\A02SocketServer.Form1.resources
 C:\Users\andan\Documents\GitHub\CS\A02SocketServer\obj\Debug\A02SocketServer.exe
 C:\Users\andan\Documents\GitHub\CS\A02SocketServer\obj\Debug\A02SocketServer.pdb
+C:\Users\Dell\Documents\GitHub\CS\A02SocketServer\bin\Debug\A02SocketServer.exe
+C:\Users\Dell\Documents\GitHub\CS\A02SocketServer\bin\Debug\A02SocketServer.pdb
+C:\Users\Dell\Documents\GitHub\CS\A02SocketServer\obj\Debug\A02SocketServer.csprojResolveAssemblyReference.cache
+C:\Users\Dell\Documents\GitHub\CS\A02SocketServer\obj\Debug\A02SocketServer.Form1.resources
+C:\Users\Dell\Documents\GitHub\CS\A02SocketServer\obj\Debug\A02SocketServer.Properties.Resources.resources
+C:\Users\Dell\Documents\GitHub\CS\A02SocketServer\obj\Debug\A02SocketServer.csproj.GenerateResource.Cache
+C:\Users\Dell\Documents\GitHub\CS\A02SocketServer\obj\Debug\A02SocketServer.exe
+C:\Users\Dell\Documents\GitHub\CS\A02SocketServer\obj\Debug\A02SocketServer.pdb

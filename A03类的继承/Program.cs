@@ -22,9 +22,16 @@ namespace A03类的继承
         /// <param name="args"></param>
         static void Main(string[] args)
         {
-            Chinese huang = new Chinese("huang", 18,性别.男性);
+            Chinese huang = new Chinese("黄", 18, Gender.男性);
             huang.Introduce();
-            
+            huang.Say();
+            Chinese chen = new Chinese("陈", 18, Gender.男性);
+            Person human = new Person("人类",10000);
+            human.Introduce();
+            human.Say();
+
+
+
         }
     }
 }

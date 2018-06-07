@@ -9,10 +9,15 @@ namespace A03类的继承
     
     class Person
     {
+        /// <summary>
+        /// 字段
+        /// </summary>
        private string _name;
        private int _age;
 
-
+        /// <summary>
+        /// 属性
+        /// </summary>
         public string Name
         {
             get
@@ -31,7 +36,9 @@ namespace A03类的继承
             set {
                 _age = value; }
         }
-
+        /// <summary>
+        /// 构造函数
+        /// </summary>
         public Person() { }
         public Person(string name)
         {
@@ -47,7 +54,7 @@ namespace A03类的继承
         /// </summary>
         public void Introduce()
         {
-            Console.WriteLine("ooo {0}，xxx{1} ", this.Name,this.AGE);
+            Console.WriteLine("我是:{0} 现在{1}岁 ", this.Name,this.AGE);
         }
         //析构函数
         ////程序结束时执行,主要用于释放资源
@@ -57,7 +64,7 @@ namespace A03类的继承
         //}
         public void Say()
         {
-            Console.WriteLine("我是中国人!");
+            Console.WriteLine("我是基类人类!");
         }
     }
 

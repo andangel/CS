@@ -4,3 +4,8 @@ C:\Users\andan\source\repos\C Sharp\A02多维数组\obj\Debug\A02多维数组.cs
 C:\Users\andan\source\repos\C Sharp\A02多维数组\obj\Debug\A02多维数组.csproj.CoreCompileInputs.cache
 C:\Users\andan\source\repos\C Sharp\A02多维数组\obj\Debug\A02多维数组.exe
 C:\Users\andan\source\repos\C Sharp\A02多维数组\obj\Debug\A02多维数组.pdb
+C:\Users\Dell\Documents\GitHub\CS\A02多维数组\bin\Debug\A02多维数组.exe
+C:\Users\Dell\Documents\GitHub\CS\A02多维数组\bin\Debug\A02多维数组.pdb
+C:\Users\Dell\Documents\GitHub\CS\A02多维数组\obj\Debug\A02多维数组.csprojResolveAssemblyReference.cache
+C:\Users\Dell\Documents\GitHub\CS\A02多维数组\obj\Debug\A02多维数组.exe
+C:\Users\Dell\Documents\GitHub\CS\A02多维数组\obj\Debug\A02多维数组.pdb

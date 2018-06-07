@@ -1,0 +1,4 @@
+C:\Users\Dell\Documents\GitHub\CS\A01虚方法练习一\bin\Debug\A01虚方法练习一.exe
+C:\Users\Dell\Documents\GitHub\CS\A01虚方法练习一\bin\Debug\A01虚方法练习一.pdb
+C:\Users\Dell\Documents\GitHub\CS\A01虚方法练习一\obj\Debug\A01虚方法练习一.exe
+C:\Users\Dell\Documents\GitHub\CS\A01虚方法练习一\obj\Debug\A01虚方法练习一.pdb

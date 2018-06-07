@@ -3,3 +3,8 @@ C:\Users\andan\Documents\GitHub\CS\A04多态显示接口\bin\Debug\A04多态显�
 C:\Users\andan\Documents\GitHub\CS\A04多态显示接口\bin\Debug\A04多态显示接口.pdb
 C:\Users\andan\Documents\GitHub\CS\A04多态显示接口\obj\Debug\A04多态显示接口.exe
 C:\Users\andan\Documents\GitHub\CS\A04多态显示接口\obj\Debug\A04多态显示接口.pdb
+C:\Users\Dell\Documents\GitHub\CS\A04多态显示接口\bin\Debug\A04多态显示接口.exe
+C:\Users\Dell\Documents\GitHub\CS\A04多态显示接口\bin\Debug\A04多态显示接口.pdb
+C:\Users\Dell\Documents\GitHub\CS\A04多态显示接口\obj\Debug\A04多态显示接口.csprojResolveAssemblyReference.cache
+C:\Users\Dell\Documents\GitHub\CS\A04多态显示接口\obj\Debug\A04多态显示接口.exe
+C:\Users\Dell\Documents\GitHub\CS\A04多态显示接口\obj\Debug\A04多态显示接口.pdb

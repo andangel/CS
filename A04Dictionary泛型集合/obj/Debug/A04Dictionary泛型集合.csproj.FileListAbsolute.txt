@@ -1,0 +1,5 @@
+C:\Users\Dell\Documents\GitHub\CS\A04Dictionary泛型集合\bin\Debug\A04Dictionary泛型集合.exe
+C:\Users\Dell\Documents\GitHub\CS\A04Dictionary泛型集合\bin\Debug\A04Dictionary泛型集合.pdb
+C:\Users\Dell\Documents\GitHub\CS\A04Dictionary泛型集合\obj\Debug\A04Dictionary泛型集合.csprojResolveAssemblyReference.cache
+C:\Users\Dell\Documents\GitHub\CS\A04Dictionary泛型集合\obj\Debug\A04Dictionary泛型集合.exe
+C:\Users\Dell\Documents\GitHub\CS\A04Dictionary泛型集合\obj\Debug\A04Dictionary泛型集合.pdb

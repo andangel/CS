@@ -1,0 +1,5 @@
+C:\Users\Dell\Documents\GitHub\CS\A03迭代器模式\bin\Debug\A03迭代器模式.exe
+C:\Users\Dell\Documents\GitHub\CS\A03迭代器模式\bin\Debug\A03迭代器模式.pdb
+C:\Users\Dell\Documents\GitHub\CS\A03迭代器模式\obj\Debug\A03迭代器模式.csprojResolveAssemblyReference.cache
+C:\Users\Dell\Documents\GitHub\CS\A03迭代器模式\obj\Debug\A03迭代器模式.exe
+C:\Users\Dell\Documents\GitHub\CS\A03迭代器模式\obj\Debug\A03迭代器模式.pdb

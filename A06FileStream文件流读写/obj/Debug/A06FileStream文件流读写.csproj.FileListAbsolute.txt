@@ -1,0 +1,5 @@
+C:\Users\Dell\Documents\GitHub\CS\A06FileStream文件流读写\bin\Debug\A06FileStream文件流读写.exe
+C:\Users\Dell\Documents\GitHub\CS\A06FileStream文件流读写\bin\Debug\A06FileStream文件流读写.pdb
+C:\Users\Dell\Documents\GitHub\CS\A06FileStream文件流读写\obj\Debug\A06FileStream文件流读写.csprojResolveAssemblyReference.cache
+C:\Users\Dell\Documents\GitHub\CS\A06FileStream文件流读写\obj\Debug\A06FileStream文件流读写.exe
+C:\Users\Dell\Documents\GitHub\CS\A06FileStream文件流读写\obj\Debug\A06FileStream文件流读写.pdb

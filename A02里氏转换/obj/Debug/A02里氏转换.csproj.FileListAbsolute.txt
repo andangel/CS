@@ -10,3 +10,8 @@ C:\Users\andan\Documents\GitHub\CS\A02里氏转换\bin\Debug\A02里氏转换.exe
 C:\Users\andan\Documents\GitHub\CS\A02里氏转换\bin\Debug\A02里氏转换.pdb
 C:\Users\andan\Documents\GitHub\CS\A02里氏转换\obj\Debug\A02里氏转换.csprojAssemblyReference.cache
 C:\Users\andan\Documents\GitHub\CS\A02里氏转换\obj\Debug\A02里氏转换.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Documents\GitHub\CS\A02里氏转换\bin\Debug\A02里氏转换.exe
+C:\Users\Dell\Documents\GitHub\CS\A02里氏转换\bin\Debug\A02里氏转换.pdb
+C:\Users\Dell\Documents\GitHub\CS\A02里氏转换\obj\Debug\A02里氏转换.csprojResolveAssemblyReference.cache
+C:\Users\Dell\Documents\GitHub\CS\A02里氏转换\obj\Debug\A02里氏转换.exe
+C:\Users\Dell\Documents\GitHub\CS\A02里氏转换\obj\Debug\A02里氏转换.pdb

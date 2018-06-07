@@ -1,0 +1,4 @@
+C:\Users\Dell\Documents\GitHub\CS\A06使用 out 传递数组\bin\Debug\A06使用 ref 和 out 传递数组.exe
+C:\Users\Dell\Documents\GitHub\CS\A06使用 out 传递数组\bin\Debug\A06使用 ref 和 out 传递数组.pdb
+C:\Users\Dell\Documents\GitHub\CS\A06使用 out 传递数组\obj\Debug\A06使用 ref 和 out 传递数组.exe
+C:\Users\Dell\Documents\GitHub\CS\A06使用 out 传递数组\obj\Debug\A06使用 ref 和 out 传递数组.pdb

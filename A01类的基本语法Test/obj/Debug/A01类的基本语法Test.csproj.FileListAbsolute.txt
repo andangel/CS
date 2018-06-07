@@ -4,3 +4,8 @@ C:\Users\andan\source\repos\C Sharp\A01类的基本语法Test\obj\Debug\A01类�
 C:\Users\andan\source\repos\C Sharp\A01类的基本语法Test\obj\Debug\A01类的基本语法Test.csproj.CoreCompileInputs.cache
 C:\Users\andan\source\repos\C Sharp\A01类的基本语法Test\obj\Debug\A01类的基本语法Test.exe
 C:\Users\andan\source\repos\C Sharp\A01类的基本语法Test\obj\Debug\A01类的基本语法Test.pdb
+C:\Users\Dell\Documents\GitHub\CS\A01类的基本语法Test\bin\Debug\A01类的基本语法Test.exe
+C:\Users\Dell\Documents\GitHub\CS\A01类的基本语法Test\bin\Debug\A01类的基本语法Test.pdb
+C:\Users\Dell\Documents\GitHub\CS\A01类的基本语法Test\obj\Debug\A01类的基本语法Test.csprojResolveAssemblyReference.cache
+C:\Users\Dell\Documents\GitHub\CS\A01类的基本语法Test\obj\Debug\A01类的基本语法Test.exe
+C:\Users\Dell\Documents\GitHub\CS\A01类的基本语法Test\obj\Debug\A01类的基本语法Test.pdb

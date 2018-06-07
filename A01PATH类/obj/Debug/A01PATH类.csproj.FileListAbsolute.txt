@@ -4,3 +4,8 @@ C:\Users\andan\source\repos\C Sharp\A01PATH类\bin\Debug\A01PATH类.exe
 C:\Users\andan\source\repos\C Sharp\A01PATH类\bin\Debug\A01PATH类.pdb
 C:\Users\andan\source\repos\C Sharp\A01PATH类\obj\Debug\A01PATH类.exe
 C:\Users\andan\source\repos\C Sharp\A01PATH类\obj\Debug\A01PATH类.pdb
+C:\Users\Dell\Documents\GitHub\CS\A01PATH类\bin\Debug\A01PATH类.exe
+C:\Users\Dell\Documents\GitHub\CS\A01PATH类\bin\Debug\A01PATH类.pdb
+C:\Users\Dell\Documents\GitHub\CS\A01PATH类\obj\Debug\A01PATH类.csprojResolveAssemblyReference.cache
+C:\Users\Dell\Documents\GitHub\CS\A01PATH类\obj\Debug\A01PATH类.exe
+C:\Users\Dell\Documents\GitHub\CS\A01PATH类\obj\Debug\A01PATH类.pdb

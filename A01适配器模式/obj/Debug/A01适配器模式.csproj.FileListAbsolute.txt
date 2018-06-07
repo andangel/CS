@@ -1,0 +1,4 @@
+C:\Users\Dell\Documents\GitHub\CS\A01适配器模式\bin\Debug\A01适配器模式.exe
+C:\Users\Dell\Documents\GitHub\CS\A01适配器模式\bin\Debug\A01适配器模式.pdb
+C:\Users\Dell\Documents\GitHub\CS\A01适配器模式\obj\Debug\A01适配器模式.exe
+C:\Users\Dell\Documents\GitHub\CS\A01适配器模式\obj\Debug\A01适配器模式.pdb

@@ -1,0 +1,4 @@
+C:\Users\Dell\Documents\GitHub\CS\A10访问者模式\bin\Debug\A10访问者模式.exe
+C:\Users\Dell\Documents\GitHub\CS\A10访问者模式\bin\Debug\A10访问者模式.pdb
+C:\Users\Dell\Documents\GitHub\CS\A10访问者模式\obj\Debug\A10访问者模式.exe
+C:\Users\Dell\Documents\GitHub\CS\A10访问者模式\obj\Debug\A10访问者模式.pdb

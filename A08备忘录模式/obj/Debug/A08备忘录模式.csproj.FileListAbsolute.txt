@@ -1,0 +1,5 @@
+C:\Users\Dell\Documents\GitHub\CS\A08备忘录模式\bin\Debug\A08备忘录模式.exe
+C:\Users\Dell\Documents\GitHub\CS\A08备忘录模式\bin\Debug\A08备忘录模式.pdb
+C:\Users\Dell\Documents\GitHub\CS\A08备忘录模式\obj\Debug\A08备忘录模式.csprojResolveAssemblyReference.cache
+C:\Users\Dell\Documents\GitHub\CS\A08备忘录模式\obj\Debug\A08备忘录模式.exe
+C:\Users\Dell\Documents\GitHub\CS\A08备忘录模式\obj\Debug\A08备忘录模式.pdb

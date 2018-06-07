@@ -4,3 +4,8 @@ C:\Users\andan\source\repos\C Sharp\A05将多维数组作为参数传递\obj\Deb
 C:\Users\andan\source\repos\C Sharp\A05将多维数组作为参数传递\obj\Debug\A05将多维数组作为参数传递.exe
 C:\Users\andan\source\repos\C Sharp\A05将多维数组作为参数传递\obj\Debug\A05将多维数组作为参数传递.pdb
 C:\Users\andan\source\repos\C Sharp\A05将多维数组作为参数传递\obj\Debug\A05将多维数组作为参数传递.csprojResolveAssemblyReference.cache
+C:\Users\Dell\Documents\GitHub\CS\A05将多维数组作为参数传递\bin\Debug\A05将多维数组作为参数传递.exe
+C:\Users\Dell\Documents\GitHub\CS\A05将多维数组作为参数传递\bin\Debug\A05将多维数组作为参数传递.pdb
+C:\Users\Dell\Documents\GitHub\CS\A05将多维数组作为参数传递\obj\Debug\A05将多维数组作为参数传递.csprojResolveAssemblyReference.cache
+C:\Users\Dell\Documents\GitHub\CS\A05将多维数组作为参数传递\obj\Debug\A05将多维数组作为参数传递.exe
+C:\Users\Dell\Documents\GitHub\CS\A05将多维数组作为参数传递\obj\Debug\A05将多维数组作为参数传递.pdb

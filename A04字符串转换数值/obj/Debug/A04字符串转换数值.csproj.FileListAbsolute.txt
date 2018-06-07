@@ -3,3 +3,8 @@ C:\Users\andan\source\repos\C Sharp\A04字符串转换数值\bin\Debug\A04字符
 C:\Users\andan\source\repos\C Sharp\A04字符串转换数值\obj\Debug\A04字符串转换数值.csproj.CoreCompileInputs.cache
 C:\Users\andan\source\repos\C Sharp\A04字符串转换数值\obj\Debug\A04字符串转换数值.exe
 C:\Users\andan\source\repos\C Sharp\A04字符串转换数值\obj\Debug\A04字符串转换数值.pdb
+C:\Users\Dell\Documents\GitHub\CS\A04字符串转换数值\bin\Debug\A04字符串转换数值.exe
+C:\Users\Dell\Documents\GitHub\CS\A04字符串转换数值\bin\Debug\A04字符串转换数值.pdb
+C:\Users\Dell\Documents\GitHub\CS\A04字符串转换数值\obj\Debug\A04字符串转换数值.csprojResolveAssemblyReference.cache
+C:\Users\Dell\Documents\GitHub\CS\A04字符串转换数值\obj\Debug\A04字符串转换数值.exe
+C:\Users\Dell\Documents\GitHub\CS\A04字符串转换数值\obj\Debug\A04字符串转换数值.pdb

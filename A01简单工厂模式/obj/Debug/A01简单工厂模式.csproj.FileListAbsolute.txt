@@ -1,0 +1,1 @@
+C:\Users\Dell\Documents\GitHub\CS\A01简单工厂模式\obj\Debug\A01简单工厂模式.csprojResolveAssemblyReference.cache

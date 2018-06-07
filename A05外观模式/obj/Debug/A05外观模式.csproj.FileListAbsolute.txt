@@ -1,0 +1,4 @@
+C:\Users\Dell\Documents\GitHub\CS\A05外观模式\bin\Debug\A05外观模式.exe
+C:\Users\Dell\Documents\GitHub\CS\A05外观模式\bin\Debug\A05外观模式.pdb
+C:\Users\Dell\Documents\GitHub\CS\A05外观模式\obj\Debug\A05外观模式.exe
+C:\Users\Dell\Documents\GitHub\CS\A05外观模式\obj\Debug\A05外观模式.pdb

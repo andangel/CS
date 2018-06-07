@@ -1,0 +1,4 @@
+C:\Users\Dell\Documents\GitHub\CS\A02命令模式\bin\Debug\A02命令模式.exe
+C:\Users\Dell\Documents\GitHub\CS\A02命令模式\bin\Debug\A02命令模式.pdb
+C:\Users\Dell\Documents\GitHub\CS\A02命令模式\obj\Debug\A02命令模式.exe
+C:\Users\Dell\Documents\GitHub\CS\A02命令模式\obj\Debug\A02命令模式.pdb

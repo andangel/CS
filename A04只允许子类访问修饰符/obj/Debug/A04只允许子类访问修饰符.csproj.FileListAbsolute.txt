@@ -1,0 +1,4 @@
+C:\Users\Dell\Documents\GitHub\CS\A04只允许子类访问修饰符\bin\Debug\A04只允许子类访问修饰符.exe
+C:\Users\Dell\Documents\GitHub\CS\A04只允许子类访问修饰符\bin\Debug\A04只允许子类访问修饰符.pdb
+C:\Users\Dell\Documents\GitHub\CS\A04只允许子类访问修饰符\obj\Debug\A04只允许子类访问修饰符.exe
+C:\Users\Dell\Documents\GitHub\CS\A04只允许子类访问修饰符\obj\Debug\A04只允许子类访问修饰符.pdb

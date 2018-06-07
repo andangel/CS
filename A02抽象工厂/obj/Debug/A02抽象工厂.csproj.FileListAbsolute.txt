@@ -1,0 +1,4 @@
+C:\Users\Dell\Documents\GitHub\CS\A02抽象工厂\bin\Debug\A02抽象工厂.exe
+C:\Users\Dell\Documents\GitHub\CS\A02抽象工厂\bin\Debug\A02抽象工厂.pdb
+C:\Users\Dell\Documents\GitHub\CS\A02抽象工厂\obj\Debug\A02抽象工厂.exe
+C:\Users\Dell\Documents\GitHub\CS\A02抽象工厂\obj\Debug\A02抽象工厂.pdb

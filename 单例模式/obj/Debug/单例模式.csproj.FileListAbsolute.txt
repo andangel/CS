@@ -7,3 +7,12 @@ C:\Users\andan\Documents\GitHub\CS\单例模式\obj\Debug\单例模式.csproj.Ge
 C:\Users\andan\Documents\GitHub\CS\单例模式\obj\Debug\单例模式.exe
 C:\Users\andan\Documents\GitHub\CS\单例模式\obj\Debug\单例模式.pdb
 C:\Users\andan\Documents\GitHub\CS\单例模式\obj\Debug\单例模式.Form2.resources
+C:\Users\Dell\Documents\GitHub\CS\单例模式\bin\Debug\单例模式.exe
+C:\Users\Dell\Documents\GitHub\CS\单例模式\bin\Debug\单例模式.pdb
+C:\Users\Dell\Documents\GitHub\CS\单例模式\obj\Debug\单例模式.csprojResolveAssemblyReference.cache
+C:\Users\Dell\Documents\GitHub\CS\单例模式\obj\Debug\单例模式.Form1.resources
+C:\Users\Dell\Documents\GitHub\CS\单例模式\obj\Debug\单例模式.Form2.resources
+C:\Users\Dell\Documents\GitHub\CS\单例模式\obj\Debug\单例模式.Properties.Resources.resources
+C:\Users\Dell\Documents\GitHub\CS\单例模式\obj\Debug\单例模式.csproj.GenerateResource.Cache
+C:\Users\Dell\Documents\GitHub\CS\单例模式\obj\Debug\单例模式.exe
+C:\Users\Dell\Documents\GitHub\CS\单例模式\obj\Debug\单例模式.pdb

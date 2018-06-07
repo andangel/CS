@@ -11,9 +11,19 @@ namespace A01继承
         private int 字段_年龄;
         private 枚举_性别 字段性别;
 
-        public string 属性_姓名 { get => 字段_姓名; set => 字段_姓名 = value; }
-        public int 属性_年龄 { get => 字段_年龄; set => 字段_年龄 = value; }
-        public 枚举_性别 属性_性别 { get => 字段性别; set => 字段性别 = value; }
+        public string 属性_姓名
+        {
+            get
+            {
+                return 字段_姓名;
+            }
+            set
+            {
+                字段_姓名 = value;
+            }
+        }
+        public int 属性_年龄 { get { return 字段_年龄; } set { 字段_年龄 = value; } }
+        public 枚举_性别 属性_性别 { get { return 字段性别; } set { 字段性别 = value; } }
         public 基类_人类() { }
         public 基类_人类(string 参数姓名)
         {

@@ -4,3 +4,8 @@ C:\Users\andan\source\repos\C Sharp\A01ArrayList集合\obj\Debug\A01ArrayList集
 C:\Users\andan\source\repos\C Sharp\A01ArrayList集合\obj\Debug\A01ArrayList集合.csproj.CoreCompileInputs.cache
 C:\Users\andan\source\repos\C Sharp\A01ArrayList集合\obj\Debug\A01ArrayList集合.exe
 C:\Users\andan\source\repos\C Sharp\A01ArrayList集合\obj\Debug\A01ArrayList集合.pdb
+C:\Users\Dell\Documents\GitHub\CS\A01ArrayList集合\bin\Debug\A01ArrayList集合.exe
+C:\Users\Dell\Documents\GitHub\CS\A01ArrayList集合\bin\Debug\A01ArrayList集合.pdb
+C:\Users\Dell\Documents\GitHub\CS\A01ArrayList集合\obj\Debug\A01ArrayList集合.csprojResolveAssemblyReference.cache
+C:\Users\Dell\Documents\GitHub\CS\A01ArrayList集合\obj\Debug\A01ArrayList集合.exe
+C:\Users\Dell\Documents\GitHub\CS\A01ArrayList集合\obj\Debug\A01ArrayList集合.pdb

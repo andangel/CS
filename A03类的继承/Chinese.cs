@@ -5,7 +5,7 @@ using System.Text;
 
 namespace A03类的继承
 {
-    enum 性别
+    enum Gender
     {
          男性, 女性
     }
@@ -13,11 +13,19 @@ namespace A03类的继承
     class Chinese:Person
     {
         //子类私有字段
-        private 性别 _gender;
+        private Gender _gender;
         /// <summary>
         /// 子类属性
         /// </summary>
-        public  性别 Gender { get => _gender; set => _gender = value; }
+        public  Gender Gender {
+            get
+            {
+                return _gender;
+            }
+            set {
+                _gender = value;
+            }
+        }
         public Chinese() { }
         /// <summary>
         /// 显示调用父类构造函数
@@ -27,7 +35,10 @@ namespace A03类的继承
 
         public Chinese(string name, int age) : base(name,age){ }
 
-        public Chinese(string name, int age, 性别 gender) : base(name, age) { this.Gender = gender; }
+        public Chinese(string name, int age, Gender gender) : base(name, age)
+        {
+            this.Gender = gender;
+        }
 
 
         /// <summary>
@@ -38,9 +49,9 @@ namespace A03类的继承
         {
             Console.WriteLine("我叫 {0}，我今年 {1} 岁, 我是 {2}", this.Name, this.AGE, this.Gender);
         }
-        public void Say()
+        public new void Say()
         {
-            Console.WriteLine("我是中国人!");
+            Console.WriteLine("我是衍生类中国人类!");
         }
     }
 }

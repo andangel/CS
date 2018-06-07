@@ -4,3 +4,6 @@ C:\Users\andan\Documents\GitHub\CS\A01继承\obj\Debug\A01继承.csprojAssemblyR
 C:\Users\andan\Documents\GitHub\CS\A01继承\obj\Debug\A01继承.csproj.CoreCompileInputs.cache
 C:\Users\andan\Documents\GitHub\CS\A01继承\obj\Debug\A01继承.exe
 C:\Users\andan\Documents\GitHub\CS\A01继承\obj\Debug\A01继承.pdb
+C:\Users\Dell\Documents\GitHub\CS\A01继承\obj\Debug\A01继承.exe
+C:\Users\Dell\Documents\GitHub\CS\A01继承\obj\Debug\A01继承.pdb
+C:\Users\Dell\Documents\GitHub\CS\A01继承\obj\Debug\A01继承.csprojResolveAssemblyReference.cache

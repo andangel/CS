@@ -1,0 +1,5 @@
+C:\Users\Dell\Documents\GitHub\CS\A02多态抽象类\bin\Debug\A02多态抽象类.exe
+C:\Users\Dell\Documents\GitHub\CS\A02多态抽象类\bin\Debug\A02多态抽象类.pdb
+C:\Users\Dell\Documents\GitHub\CS\A02多态抽象类\obj\Debug\A02多态抽象类.csprojResolveAssemblyReference.cache
+C:\Users\Dell\Documents\GitHub\CS\A02多态抽象类\obj\Debug\A02多态抽象类.exe
+C:\Users\Dell\Documents\GitHub\CS\A02多态抽象类\obj\Debug\A02多态抽象类.pdb

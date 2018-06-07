@@ -1,0 +1,4 @@
+C:\Users\Dell\Documents\GitHub\CS\A04FileStream文件流读写\bin\Debug\A04FileStream文件流读写.exe
+C:\Users\Dell\Documents\GitHub\CS\A04FileStream文件流读写\bin\Debug\A04FileStream文件流读写.pdb
+C:\Users\Dell\Documents\GitHub\CS\A04FileStream文件流读写\obj\Debug\A04FileStream文件流读写.exe
+C:\Users\Dell\Documents\GitHub\CS\A04FileStream文件流读写\obj\Debug\A04FileStream文件流读写.pdb
