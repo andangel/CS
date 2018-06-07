@@ -1,0 +1,6 @@
+C:\Users\andan\Documents\GitHub\CS\A01继承\bin\Debug\A01继承.exe
+C:\Users\andan\Documents\GitHub\CS\A01继承\bin\Debug\A01继承.pdb
+C:\Users\andan\Documents\GitHub\CS\A01继承\obj\Debug\A01继承.csprojAssemblyReference.cache
+C:\Users\andan\Documents\GitHub\CS\A01继承\obj\Debug\A01继承.csproj.CoreCompileInputs.cache
+C:\Users\andan\Documents\GitHub\CS\A01继承\obj\Debug\A01继承.exe
+C:\Users\andan\Documents\GitHub\CS\A01继承\obj\Debug\A01继承.pdb

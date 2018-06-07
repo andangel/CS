@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 2013
-VisualStudioVersion = 12.0.40629.0
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2000
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "值类型", "值类型", "{F5AE1B03-9999-4DD5-A224-BECA576E19DA}"
 EndProject
@@ -186,6 +186,8 @@ EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "A02SocketServer", "A02SocketServer\A02SocketServer.csproj", "{5558394E-380A-4D1A-B5C1-9D90E90EC147}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "单例模式", "单例模式\单例模式.csproj", "{1D62B424-B348-4C22-B9A5-B0ADA95C557E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "A01继承", "A01继承\A01继承.csproj", "{F7B56CFB-9868-45A8-BA69-418812B306B6}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -485,6 +487,10 @@ Global
 		{1D62B424-B348-4C22-B9A5-B0ADA95C557E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1D62B424-B348-4C22-B9A5-B0ADA95C557E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1D62B424-B348-4C22-B9A5-B0ADA95C557E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F7B56CFB-9868-45A8-BA69-418812B306B6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F7B56CFB-9868-45A8-BA69-418812B306B6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F7B56CFB-9868-45A8-BA69-418812B306B6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F7B56CFB-9868-45A8-BA69-418812B306B6}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -572,6 +578,7 @@ Global
 		{A444D42C-46E4-48D5-8475-D31AC093E410} = {E28B7AD3-1233-4ABF-9996-04CED0012178}
 		{5558394E-380A-4D1A-B5C1-9D90E90EC147} = {E28B7AD3-1233-4ABF-9996-04CED0012178}
 		{1D62B424-B348-4C22-B9A5-B0ADA95C557E} = {95C3D3F9-5A22-43D0-83E6-637E1A9CD384}
+		{F7B56CFB-9868-45A8-BA69-418812B306B6} = {3D61E159-4A7B-48E9-8513-87E0B945134D}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {3C49BFFF-C38B-4EE4-8BEC-21AA3444C9DD}

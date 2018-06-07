@@ -46,7 +46,7 @@ namespace A02里氏转换
         /// </summary>
         public void Introduce()
         {
-            Console.WriteLine("xxx{0}，ooo {1}", this.Name,this.AGE);
+            Console.WriteLine("xxx，ooo");
         }
         //析构函数
         ////程序结束时执行,主要用于释放资源

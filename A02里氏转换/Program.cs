@@ -17,14 +17,19 @@ namespace A02里氏转换
         /// <param name="args"></param>
         static void Main(string[] args)
         {
-            Person huang = new Chinese("黄", 18, 性别.男性);
+            Chinese huang = new Chinese("黄", 18, 性别.男性);
+            //Person huang =new Chinese("黄", 18, 性别.男性);//这里用父类new对象在下面调用方法会把父类方法一起调用一遍
             if (huang is Person)
             {
                 huang.Introduce();
             }
             else { Console.WriteLine("转换失败"); }
-            Chinese hu = huang as Chinese;
-            hu.Introduce();
+            
+            if (huang as Person!=null)
+            {
+                huang.Introduce();
+            }
+
             Person[] pers = new Person[10];
             Random r = new Random();
             for (int i = 0; i < pers.Length; i++)
