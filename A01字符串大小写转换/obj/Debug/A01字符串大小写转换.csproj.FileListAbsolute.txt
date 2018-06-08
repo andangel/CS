@@ -1,0 +1,6 @@
+C:\Users\Dell\Documents\GitHub\CS\A01字符串大小写转换\obj\Debug\A01字符串大小写转换.csprojResolveAssemblyReference.cache
+C:\Users\Dell\Documents\GitHub\CS\A01字符串大小写转换\obj\Debug\A01字符串大小写转换.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Documents\GitHub\CS\A01字符串大小写转换\bin\Debug\A01字符串大小写转换.exe
+C:\Users\Dell\Documents\GitHub\CS\A01字符串大小写转换\bin\Debug\A01字符串大小写转换.pdb
+C:\Users\Dell\Documents\GitHub\CS\A01字符串大小写转换\obj\Debug\A01字符串大小写转换.exe
+C:\Users\Dell\Documents\GitHub\CS\A01字符串大小写转换\obj\Debug\A01字符串大小写转换.pdb

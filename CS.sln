@@ -189,6 +189,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "单例模式", "单例模�
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "A01继承", "A01继承\A01继承.csproj", "{F7B56CFB-9868-45A8-BA69-418812B306B6}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "A01StringBuilder字符串拼接避免造成大量内存垃圾", "A01StringBuilder字符串拼接避免造成大量内存垃圾\A01StringBuilder字符串拼接避免造成大量内存垃圾.csproj", "{DC3F5854-52EE-4B82-93D5-0F96C1A86096}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "A01字符串大小写转换", "A01字符串大小写转换\A01字符串大小写转换.csproj", "{6F1404AC-F1CE-4EAB-891A-4AEE244C87B3}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -491,6 +495,14 @@ Global
 		{F7B56CFB-9868-45A8-BA69-418812B306B6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F7B56CFB-9868-45A8-BA69-418812B306B6}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F7B56CFB-9868-45A8-BA69-418812B306B6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DC3F5854-52EE-4B82-93D5-0F96C1A86096}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DC3F5854-52EE-4B82-93D5-0F96C1A86096}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DC3F5854-52EE-4B82-93D5-0F96C1A86096}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DC3F5854-52EE-4B82-93D5-0F96C1A86096}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6F1404AC-F1CE-4EAB-891A-4AEE244C87B3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6F1404AC-F1CE-4EAB-891A-4AEE244C87B3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6F1404AC-F1CE-4EAB-891A-4AEE244C87B3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6F1404AC-F1CE-4EAB-891A-4AEE244C87B3}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -579,6 +591,8 @@ Global
 		{5558394E-380A-4D1A-B5C1-9D90E90EC147} = {E28B7AD3-1233-4ABF-9996-04CED0012178}
 		{1D62B424-B348-4C22-B9A5-B0ADA95C557E} = {95C3D3F9-5A22-43D0-83E6-637E1A9CD384}
 		{F7B56CFB-9868-45A8-BA69-418812B306B6} = {3D61E159-4A7B-48E9-8513-87E0B945134D}
+		{DC3F5854-52EE-4B82-93D5-0F96C1A86096} = {5FEEDE8E-6C20-43AC-8EBF-E15F97425AFF}
+		{6F1404AC-F1CE-4EAB-891A-4AEE244C87B3} = {5FEEDE8E-6C20-43AC-8EBF-E15F97425AFF}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {3C49BFFF-C38B-4EE4-8BEC-21AA3444C9DD}

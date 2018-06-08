@@ -1,0 +1,6 @@
+C:\Users\Dell\Documents\GitHub\CS\A01StringBuilder字符串拼接避免造成大量内存垃圾\bin\Debug\A01StringBuilder字符串拼接避免造成大量内存垃圾.exe
+C:\Users\Dell\Documents\GitHub\CS\A01StringBuilder字符串拼接避免造成大量内存垃圾\bin\Debug\A01StringBuilder字符串拼接避免造成大量内存垃圾.pdb
+C:\Users\Dell\Documents\GitHub\CS\A01StringBuilder字符串拼接避免造成大量内存垃圾\obj\Debug\A01StringBuilder字符串拼接避免造成大量内存垃圾.csprojResolveAssemblyReference.cache
+C:\Users\Dell\Documents\GitHub\CS\A01StringBuilder字符串拼接避免造成大量内存垃圾\obj\Debug\A01StringBuilder字符串拼接避免造成大量内存垃圾.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Documents\GitHub\CS\A01StringBuilder字符串拼接避免造成大量内存垃圾\obj\Debug\A01StringBuilder字符串拼接避免造成大量内存垃圾.exe
+C:\Users\Dell\Documents\GitHub\CS\A01StringBuilder字符串拼接避免造成大量内存垃圾\obj\Debug\A01StringBuilder字符串拼接避免造成大量内存垃圾.pdb

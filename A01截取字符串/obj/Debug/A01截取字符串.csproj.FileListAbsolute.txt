@@ -9,3 +9,4 @@ C:\Users\Dell\Documents\GitHub\CS\A01截取字符串\bin\Debug\A01截取字符�
 C:\Users\Dell\Documents\GitHub\CS\A01截取字符串\obj\Debug\A01截取字符串.csprojResolveAssemblyReference.cache
 C:\Users\Dell\Documents\GitHub\CS\A01截取字符串\obj\Debug\A01截取字符串.exe
 C:\Users\Dell\Documents\GitHub\CS\A01截取字符串\obj\Debug\A01截取字符串.pdb
+C:\Users\Dell\Documents\GitHub\CS\A01截取字符串\obj\Debug\A01截取字符串.csproj.CoreCompileInputs.cache
