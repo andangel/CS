@@ -1,0 +1,6 @@
+C:\Users\andan\source\repos\CS\A02判断字符串重复出现字符次数\bin\Debug\A02判断字符串重复出现字符次数.exe
+C:\Users\andan\source\repos\CS\A02判断字符串重复出现字符次数\bin\Debug\A02判断字符串重复出现字符次数.pdb
+C:\Users\andan\source\repos\CS\A02判断字符串重复出现字符次数\obj\Debug\A02判断字符串重复出现字符次数.csprojAssemblyReference.cache
+C:\Users\andan\source\repos\CS\A02判断字符串重复出现字符次数\obj\Debug\A02判断字符串重复出现字符次数.csproj.CoreCompileInputs.cache
+C:\Users\andan\source\repos\CS\A02判断字符串重复出现字符次数\obj\Debug\A02判断字符串重复出现字符次数.exe
+C:\Users\andan\source\repos\CS\A02判断字符串重复出现字符次数\obj\Debug\A02判断字符串重复出现字符次数.pdb

@@ -193,6 +193,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "A01StringBuilder字符串�
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "A01字符串大小写转换", "A01字符串大小写转换\A01字符串大小写转换.csproj", "{6F1404AC-F1CE-4EAB-891A-4AEE244C87B3}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "A02判断字符串重复出现字符次数", "A02判断字符串重复出现字符次数\A02判断字符串重复出现字符次数.csproj", "{69BD3181-0CF7-4B62-B7FF-D1115C77E844}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "A02字符串去掉空格", "A02字符串去掉空格\A02字符串去掉空格.csproj", "{4C57D19E-0CCB-4333-93F6-C83F988B1313}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -503,6 +507,14 @@ Global
 		{6F1404AC-F1CE-4EAB-891A-4AEE244C87B3}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6F1404AC-F1CE-4EAB-891A-4AEE244C87B3}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6F1404AC-F1CE-4EAB-891A-4AEE244C87B3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{69BD3181-0CF7-4B62-B7FF-D1115C77E844}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{69BD3181-0CF7-4B62-B7FF-D1115C77E844}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{69BD3181-0CF7-4B62-B7FF-D1115C77E844}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{69BD3181-0CF7-4B62-B7FF-D1115C77E844}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4C57D19E-0CCB-4333-93F6-C83F988B1313}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4C57D19E-0CCB-4333-93F6-C83F988B1313}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4C57D19E-0CCB-4333-93F6-C83F988B1313}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4C57D19E-0CCB-4333-93F6-C83F988B1313}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -593,6 +605,8 @@ Global
 		{F7B56CFB-9868-45A8-BA69-418812B306B6} = {3D61E159-4A7B-48E9-8513-87E0B945134D}
 		{DC3F5854-52EE-4B82-93D5-0F96C1A86096} = {5FEEDE8E-6C20-43AC-8EBF-E15F97425AFF}
 		{6F1404AC-F1CE-4EAB-891A-4AEE244C87B3} = {5FEEDE8E-6C20-43AC-8EBF-E15F97425AFF}
+		{69BD3181-0CF7-4B62-B7FF-D1115C77E844} = {5FEEDE8E-6C20-43AC-8EBF-E15F97425AFF}
+		{4C57D19E-0CCB-4333-93F6-C83F988B1313} = {5FEEDE8E-6C20-43AC-8EBF-E15F97425AFF}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {3C49BFFF-C38B-4EE4-8BEC-21AA3444C9DD}

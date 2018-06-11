@@ -1,0 +1,5 @@
+C:\Users\andan\source\repos\CS\A02字符串去掉空格\bin\Debug\A02字符串去掉空格.exe
+C:\Users\andan\source\repos\CS\A02字符串去掉空格\bin\Debug\A02字符串去掉空格.pdb
+C:\Users\andan\source\repos\CS\A02字符串去掉空格\obj\Debug\A02字符串去掉空格.csproj.CoreCompileInputs.cache
+C:\Users\andan\source\repos\CS\A02字符串去掉空格\obj\Debug\A02字符串去掉空格.exe
+C:\Users\andan\source\repos\CS\A02字符串去掉空格\obj\Debug\A02字符串去掉空格.pdb
