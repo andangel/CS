@@ -1,0 +1,6 @@
+C:\Users\andan\source\repos\CS\A01DateTime类\bin\Debug\A01DateTime类.exe
+C:\Users\andan\source\repos\CS\A01DateTime类\bin\Debug\A01DateTime类.pdb
+C:\Users\andan\source\repos\CS\A01DateTime类\obj\Debug\A01DateTime类.csprojAssemblyReference.cache
+C:\Users\andan\source\repos\CS\A01DateTime类\obj\Debug\A01DateTime类.csproj.CoreCompileInputs.cache
+C:\Users\andan\source\repos\CS\A01DateTime类\obj\Debug\A01DateTime类.exe
+C:\Users\andan\source\repos\CS\A01DateTime类\obj\Debug\A01DateTime类.pdb
