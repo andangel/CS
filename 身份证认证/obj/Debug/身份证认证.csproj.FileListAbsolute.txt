@@ -1,0 +1,10 @@
+C:\Users\Dell\source\repos\CS\身份证认证\bin\Debug\身份证认证.exe
+C:\Users\Dell\source\repos\CS\身份证认证\bin\Debug\身份证认证.pdb
+C:\Users\Dell\source\repos\CS\身份证认证\obj\Debug\身份证认证.csprojAssemblyReference.cache
+C:\Users\Dell\source\repos\CS\身份证认证\obj\Debug\身份证认证.Form1.resources
+C:\Users\Dell\source\repos\CS\身份证认证\obj\Debug\身份证认证.Properties.Resources.resources
+C:\Users\Dell\source\repos\CS\身份证认证\obj\Debug\身份证认证.csproj.GenerateResource.cache
+C:\Users\Dell\source\repos\CS\身份证认证\obj\Debug\身份证认证.csproj.CoreCompileInputs.cache
+C:\Users\Dell\source\repos\CS\身份证认证\obj\Debug\身份证认证.exe
+C:\Users\Dell\source\repos\CS\身份证认证\obj\Debug\身份证认证.pdb
+C:\Users\Dell\source\repos\CS\身份证认证\bin\Debug\身份证认证.exe.config
