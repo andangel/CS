@@ -1,0 +1,10 @@
+C:\Users\KaiKai\source\repos\CS\按钮外观及事件\bin\Debug\按钮外观及事件.exe
+C:\Users\KaiKai\source\repos\CS\按钮外观及事件\bin\Debug\按钮外观及事件.pdb
+C:\Users\KaiKai\source\repos\CS\按钮外观及事件\obj\Debug\按钮外观及事件.csprojAssemblyReference.cache
+C:\Users\KaiKai\source\repos\CS\按钮外观及事件\obj\Debug\按钮外观及事件.Properties.Resources.resources
+C:\Users\KaiKai\source\repos\CS\按钮外观及事件\obj\Debug\按钮外观及事件.csproj.GenerateResource.cache
+C:\Users\KaiKai\source\repos\CS\按钮外观及事件\obj\Debug\按钮外观及事件.csproj.CoreCompileInputs.cache
+C:\Users\KaiKai\source\repos\CS\按钮外观及事件\obj\Debug\按钮外观及事件.exe
+C:\Users\KaiKai\source\repos\CS\按钮外观及事件\obj\Debug\按钮外观及事件.pdb
+C:\Users\KaiKai\source\repos\CS\按钮外观及事件\bin\Debug\按钮外观及事件.exe.config
+C:\Users\KaiKai\source\repos\CS\按钮外观及事件\obj\Debug\按钮外观及事件.FormMain.resources
