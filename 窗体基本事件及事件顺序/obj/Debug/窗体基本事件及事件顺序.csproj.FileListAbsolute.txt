@@ -1,0 +1,9 @@
+C:\Users\KaiKai\source\repos\CS\窗体基本事件及事件顺序\bin\Debug\窗体基本事件及事件顺序.exe
+C:\Users\KaiKai\source\repos\CS\窗体基本事件及事件顺序\bin\Debug\窗体基本事件及事件顺序.pdb
+C:\Users\KaiKai\source\repos\CS\窗体基本事件及事件顺序\obj\Debug\窗体基本事件及事件顺序.csprojAssemblyReference.cache
+C:\Users\KaiKai\source\repos\CS\窗体基本事件及事件顺序\obj\Debug\窗体基本事件及事件顺序.FormMain.resources
+C:\Users\KaiKai\source\repos\CS\窗体基本事件及事件顺序\obj\Debug\窗体基本事件及事件顺序.Properties.Resources.resources
+C:\Users\KaiKai\source\repos\CS\窗体基本事件及事件顺序\obj\Debug\窗体基本事件及事件顺序.csproj.GenerateResource.cache
+C:\Users\KaiKai\source\repos\CS\窗体基本事件及事件顺序\obj\Debug\窗体基本事件及事件顺序.csproj.CoreCompileInputs.cache
+C:\Users\KaiKai\source\repos\CS\窗体基本事件及事件顺序\obj\Debug\窗体基本事件及事件顺序.exe
+C:\Users\KaiKai\source\repos\CS\窗体基本事件及事件顺序\obj\Debug\窗体基本事件及事件顺序.pdb
