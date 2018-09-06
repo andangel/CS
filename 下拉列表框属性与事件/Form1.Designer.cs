@@ -40,9 +40,10 @@
             // 
             this.ComboBox1.DropDownStyle = System.Windows.Forms.ComboBoxStyle.DropDownList;
             this.ComboBox1.FormattingEnabled = true;
-            this.ComboBox1.Location = new System.Drawing.Point(89, 27);
+            this.ComboBox1.Location = new System.Drawing.Point(178, 54);
+            this.ComboBox1.Margin = new System.Windows.Forms.Padding(6, 6, 6, 6);
             this.ComboBox1.Name = "ComboBox1";
-            this.ComboBox1.Size = new System.Drawing.Size(256, 20);
+            this.ComboBox1.Size = new System.Drawing.Size(508, 32);
             this.ComboBox1.TabIndex = 0;
             this.ComboBox1.SelectedIndexChanged += new System.EventHandler(this.ComboBox1_SelectedIndexChanged);
             // 
@@ -50,17 +51,19 @@
             // 
             this.label1.AutoSize = true;
             this.label1.Font = new System.Drawing.Font("微软雅黑", 10.5F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(134)));
-            this.label1.Location = new System.Drawing.Point(30, 27);
+            this.label1.Location = new System.Drawing.Point(60, 54);
+            this.label1.Margin = new System.Windows.Forms.Padding(6, 0, 6, 0);
             this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(37, 20);
+            this.label1.Size = new System.Drawing.Size(71, 36);
             this.label1.TabIndex = 1;
             this.label1.Text = "城市";
             // 
             // Button1
             // 
-            this.Button1.Location = new System.Drawing.Point(219, 278);
+            this.Button1.Location = new System.Drawing.Point(438, 556);
+            this.Button1.Margin = new System.Windows.Forms.Padding(6, 6, 6, 6);
             this.Button1.Name = "Button1";
-            this.Button1.Size = new System.Drawing.Size(160, 23);
+            this.Button1.Size = new System.Drawing.Size(320, 46);
             this.Button1.TabIndex = 2;
             this.Button1.Text = "SelectedItem";
             this.Button1.UseVisualStyleBackColor = true;
@@ -68,9 +71,10 @@
             // 
             // Button2
             // 
-            this.Button2.Location = new System.Drawing.Point(22, 278);
+            this.Button2.Location = new System.Drawing.Point(44, 556);
+            this.Button2.Margin = new System.Windows.Forms.Padding(6, 6, 6, 6);
             this.Button2.Name = "Button2";
-            this.Button2.Size = new System.Drawing.Size(160, 23);
+            this.Button2.Size = new System.Drawing.Size(320, 46);
             this.Button2.TabIndex = 3;
             this.Button2.Text = "Text";
             this.Button2.UseVisualStyleBackColor = true;
@@ -80,33 +84,37 @@
             // 
             this.ComboBox2.DropDownStyle = System.Windows.Forms.ComboBoxStyle.DropDownList;
             this.ComboBox2.FormattingEnabled = true;
-            this.ComboBox2.Location = new System.Drawing.Point(89, 84);
+            this.ComboBox2.Location = new System.Drawing.Point(178, 168);
+            this.ComboBox2.Margin = new System.Windows.Forms.Padding(6, 6, 6, 6);
             this.ComboBox2.Name = "ComboBox2";
-            this.ComboBox2.Size = new System.Drawing.Size(256, 20);
+            this.ComboBox2.Size = new System.Drawing.Size(508, 32);
             this.ComboBox2.TabIndex = 5;
             // 
             // label2
             // 
             this.label2.AutoSize = true;
             this.label2.Font = new System.Drawing.Font("微软雅黑", 10.5F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(134)));
-            this.label2.Location = new System.Drawing.Point(30, 84);
+            this.label2.Location = new System.Drawing.Point(60, 168);
+            this.label2.Margin = new System.Windows.Forms.Padding(6, 0, 6, 0);
             this.label2.Name = "label2";
-            this.label2.Size = new System.Drawing.Size(37, 20);
+            this.label2.Size = new System.Drawing.Size(71, 36);
             this.label2.TabIndex = 6;
             this.label2.Text = "联动";
             // 
             // Form1
             // 
-            this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 12F);
+            this.AutoScaleDimensions = new System.Drawing.SizeF(12F, 24F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(403, 323);
+            this.ClientSize = new System.Drawing.Size(806, 646);
             this.Controls.Add(this.label2);
             this.Controls.Add(this.ComboBox2);
             this.Controls.Add(this.Button2);
             this.Controls.Add(this.Button1);
             this.Controls.Add(this.label1);
             this.Controls.Add(this.ComboBox1);
+            this.Margin = new System.Windows.Forms.Padding(6, 6, 6, 6);
             this.Name = "Form1";
+            this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "ComboBox下拉列表框";
             this.Load += new System.EventHandler(this.Form1_Load);
             this.ResumeLayout(false);

@@ -7,3 +7,12 @@ C:\Users\Dell\source\repos\CS\下拉列表框属性与事件\obj\Debug\下拉列
 C:\Users\Dell\source\repos\CS\下拉列表框属性与事件\obj\Debug\下拉列表框属性与事件.csproj.CoreCompileInputs.cache
 C:\Users\Dell\source\repos\CS\下拉列表框属性与事件\obj\Debug\下拉列表框属性与事件.exe
 C:\Users\Dell\source\repos\CS\下拉列表框属性与事件\obj\Debug\下拉列表框属性与事件.pdb
+C:\Users\KaiKai\Source\Repos\CS\下拉列表框属性与事件\bin\Debug\下拉列表框属性与事件.exe
+C:\Users\KaiKai\Source\Repos\CS\下拉列表框属性与事件\bin\Debug\下拉列表框属性与事件.pdb
+C:\Users\KaiKai\Source\Repos\CS\下拉列表框属性与事件\obj\Debug\下拉列表框属性与事件.csprojAssemblyReference.cache
+C:\Users\KaiKai\Source\Repos\CS\下拉列表框属性与事件\obj\Debug\下拉列表框属性与事件.Form1.resources
+C:\Users\KaiKai\Source\Repos\CS\下拉列表框属性与事件\obj\Debug\下拉列表框属性与事件.Properties.Resources.resources
+C:\Users\KaiKai\Source\Repos\CS\下拉列表框属性与事件\obj\Debug\下拉列表框属性与事件.csproj.GenerateResource.cache
+C:\Users\KaiKai\Source\Repos\CS\下拉列表框属性与事件\obj\Debug\下拉列表框属性与事件.csproj.CoreCompileInputs.cache
+C:\Users\KaiKai\Source\Repos\CS\下拉列表框属性与事件\obj\Debug\下拉列表框属性与事件.exe
+C:\Users\KaiKai\Source\Repos\CS\下拉列表框属性与事件\obj\Debug\下拉列表框属性与事件.pdb
